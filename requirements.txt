@@ -1,0 +1,8 @@
+# Smart Student Task Manager
+# Runtime: Python 3.9 or newer
+# External dependencies: None
+#
+# The project uses only Python standard-library modules:
+# - json
+# - pathlib
+# - datetime
